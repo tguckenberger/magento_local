@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="InteractOne_tab" translate="label" sortOrder="500">
+            <label>InteractOne Extensions</label>
+        </tab>
+        <section id="InteractOne" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label>Limit States</label>
+            <tab>InteractOne_tab</tab>
+            <resource>InteractOne_LimitStates::limit</resource>
+            <group id="basic" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Basic</label>
+                <field id="enabled" translate="label" type="multiselect" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Exclude States</label>
+                    <source_model>InteractOne\LimitStates\Model\Config\Source\Region</source_model>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>
