@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d30265-9ec0-45ba-934a-5008c542fbe7" name="Default" comment="" />
+    <list default="true" id="03d30265-9ec0-45ba-934a-5008c542fbe7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_1COLUMN" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_1COLUMN" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_BLOCK_HTML" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_BLOCK_HTML" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CATALOG_PRODUCT_PRICES" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CATALOG_PRODUCT_PRICES" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CAT_C" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CAT_C" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CMS_INDEX_INDEX" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CMS_INDEX_INDEX" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CMS_INDEX_INDEX_ID_HOME" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CMS_INDEX_INDEX_ID_HOME" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CMS_PAGE_VIEW" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CMS_PAGE_VIEW" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_COLLECTION_DATA" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_COLLECTION_DATA" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CONFIG" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DB_DDL" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DB_DDL" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DB_PDO_MYSQL_DDL" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DB_PDO_MYSQL_DDL" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DEFAULT" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_EAV" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_EAV" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_EAV_ATTRIBUTE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_EAV_ATTRIBUTE" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_LAYOUT_GENERAL_CACHE_TAG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_LAYOUT_GENERAL_CACHE_TAG" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_MAGE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_MAGE" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_STORE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_STORE" />
+      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_TRANSLATE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_TRANSLATE" />
+      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CAT_C" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CAT_C" />
+      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CMS_B" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CMS_B" />
+      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CMS_P_2" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CMS_P_2" />
+      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_FPC" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_FPC" />
+      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_MAGE" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_MAGE" />
+      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_STORE" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_STORE" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -346,12 +371,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516118263674</updated>
-      <workItem from="1516118265661" duration="1484000" />
+      <workItem from="1516118265661" duration="2074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1484000" />
+    <option name="totallyTimeSpent" value="2074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="957" extended-state="0" />
