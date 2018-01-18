@@ -2,56 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03d30265-9ec0-45ba-934a-5008c542fbe7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State/Collection.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/State.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Controller/Index/Display.php" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Controller/Index/Display.php" />
-      <change beforePath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Helper/Data.php" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Helper/Data.php" />
       <change beforePath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region.php" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region.php" />
-      <change beforePath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region/Collection.php" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region/Collection.php" />
-      <change beforePath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/InstallSchema.php" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/InstallSchema.php" />
-      <change beforePath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/etc/adminhtml/system.xml" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/etc/adminhtml/system.xml" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---34b_MVIEW_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---34b_MVIEW_CONFIG" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---34b_GLOBAL__EVENT_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---34b_GLOBAL__EVENT_CONFIG_CACHE" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---34b_SYSTEM" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---34b_SYSTEM" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---34b_SYSTEM_WEBSITES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---34b_SYSTEM_WEBSITES_ADMIN" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---34b_GLOBAL_PRIMARY_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---34b_GLOBAL_PRIMARY_PLUGIN_LIST" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---34b_INDEXER_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---34b_INDEXER_CONFIG" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---34b_GLOBAL__DICONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---34b_GLOBAL__DICONFIG" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---34b_RESOLVED_STORES_D1BEFA03C79CA0B84ECC488DEA96BC68" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---34b_RESOLVED_STORES_D1BEFA03C79CA0B84ECC488DEA96BC68" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---34b_SYSTEM_STORES_0" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---34b_SYSTEM_STORES_0" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---34b_EXTENSION_ATTRIBUTES_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---34b_EXTENSION_ATTRIBUTES_CONFIG" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---34b_INITIAL_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---34b_INITIAL_CONFIG" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---34b_DB_PDO_MYSQL_DDL_AUTHORIZATION_ROLE_1" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---34b_DB_PDO_MYSQL_DDL_AUTHORIZATION_ROLE_1" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---34b_DB_PDO_MYSQL_DDL_OAUTH_CONSUMER_1" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---34b_DB_PDO_MYSQL_DDL_OAUTH_CONSUMER_1" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---34b_INTERCEPTION" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---34b_INTERCEPTION" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---34b_DB_PDO_MYSQL_DDL_AUTHORIZATION_RULE_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---34b_DB_PDO_MYSQL_DDL_AUTHORIZATION_RULE_1" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---34b_INTEGRATION_API" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---34b_INTEGRATION_API" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---34b_DB_PDO_MYSQL_DDL_INTEGRATION_1" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---34b_DB_PDO_MYSQL_DDL_INTEGRATION_1" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---34b_DICONFIGE051300044FCC2B26815B2C66EACB572" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---34b_DICONFIGE051300044FCC2B26815B2C66EACB572" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---34b_SYSTEM_WEBSITES_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---34b_SYSTEM_WEBSITES_1" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---34b_SYSTEM_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---34b_SYSTEM_DEFAULT" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---34b_SYSTEM_WEBSITES_BASE" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---34b_SYSTEM_WEBSITES_BASE" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---34b_PROVIDER_ACL_RESOURCES_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---34b_PROVIDER_ACL_RESOURCES_CACHE" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---34b_SYSTEM_WEBSITES_0" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---34b_SYSTEM_WEBSITES_0" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_CORE_CACHE_INVALIDATE" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_CORE_CACHE_INVALIDATE" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_CRON_GROUPS_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_CRON_GROUPS_CONFIG_CACHE" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_SYSTEM_SCOPES" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_SYSTEM_SCOPES" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_SYSTEM_STORES_1" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_SYSTEM_STORES_1" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_SYSTEM_STORES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_SYSTEM_STORES_ADMIN" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_SYSTEM_STORES_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---34b_SYSTEM_STORES_DEFAULT" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_CONFIG" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DB_DDL" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DB_DDL" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DB_PDO_MYSQL_DDL" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_DB_PDO_MYSQL_DDL" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_MAGE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_MAGE" />
-      <change beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_STORE_RELATIONS" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---34b_STORE_RELATIONS" />
+      <change beforePath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State.php" afterPath="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State.php" />
+      <change beforePath="$PROJECT_DIR$/app/etc/env.php" afterPath="$PROJECT_DIR$/app/etc/env.php" />
       <change beforePath="$PROJECT_DIR$/var/log/debug.log" afterPath="$PROJECT_DIR$/var/log/debug.log" />
-      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CAT_C" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CAT_C" />
-      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CMS_B" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_CMS_B" />
-      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_FPC" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_FPC" />
-      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_MAGE" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_MAGE" />
-      <change beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_STORE" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---34b_STORE" />
+      <change beforePath="$PROJECT_DIR$/var/log/install.log" afterPath="$PROJECT_DIR$/var/log/install.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,28 +25,18 @@
       <file leaf-file-name="Display.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Controller/Index/Display.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="234">
+              <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Data.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Helper/Data.php">
+      <file leaf-file-name="Region.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="system.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/etc/adminhtml/system.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,9 +52,11 @@
       <find>country</find>
       <find>country options</find>
       <find>Allow to Choose State if It is Optional for Country</find>
-      <find>InteractOne/basic/enabled</find>
       <find>EnabledStates</find>
       <find>interactone_enabled_states</find>
+      <find>InteractOne/basic/enabled</find>
+      <find>delet</find>
+      <find>model\resourcemodel\state</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/vendor/magento</dir>
@@ -127,16 +76,16 @@
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/InstallSchema" />
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/UpgradeSchema.php" />
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/etc/acl.xml" />
-        <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region.php" />
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region/Collection.php" />
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/EnabledStates/Collection.php" />
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/EnabledStates.php" />
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/EnabledStates.php" />
-        <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/InstallSchema.php" />
-        <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State.php" />
-        <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Controller/Index/Display.php" />
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/etc/adminhtml/system.xml" />
         <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Helper/Data.php" />
+        <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State.php" />
+        <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/InstallSchema.php" />
+        <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region.php" />
+        <option value="$PROJECT_DIR$/app/code/InteractOne/LimitStates/Controller/Index/Display.php" />
       </list>
     </option>
   </component>
@@ -147,7 +96,6 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/pub/static/adminhtml/Magento/backend/en_US/Dotdigitalgroup_Email/js/node_modules" />
     <handled-path value="$PROJECT_DIR$/vendor/dotmailer/dotmailer-magento2-extension/view/adminhtml/web/js/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
@@ -399,9 +347,11 @@
       <path value="$PROJECT_DIR$/vendor/phpmd/phpmd" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1736" />
+    <option name="y" value="14" />
+    <option name="width" value="1398" />
+    <option name="height" value="856" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -420,6 +370,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -479,26 +430,7 @@
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="InteractOne" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="LimitStates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="etc" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento_local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento_local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="InteractOne" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="LimitStates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="etc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="adminhtml" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento_local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento_local" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="InteractOne" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="LimitStates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Helper" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Model" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento_local" type="b2602c69:ProjectViewProjectNode" />
@@ -508,12 +440,32 @@
               <item name="InteractOne" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="LimitStates" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ResourceModel" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento_local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento_local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="InteractOne" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="LimitStates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ResourceModel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Region" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento_local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento_local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="InteractOne" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="LimitStates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Setup" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -562,33 +514,33 @@
       <workItem from="1516118265661" duration="25004000" />
       <workItem from="1516288337801" duration="8841000" />
       <workItem from="1516298592077" duration="178000" />
+      <workItem from="1516301009711" duration="11425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34023000" />
+    <option name="totallyTimeSpent" value="45448000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="1665" y="-4" width="1535" height="904" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28676966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44319344" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -619,57 +571,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/etc/frontend/routes.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/InstallSchema.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/Config/Source/Region.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Helper/Data.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/env.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -722,13 +634,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generated/code/Magento/Directory/Model/CountryFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-178">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/code/Magento/Directory/Model/CountryFactory.php" />
     <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/Config/Source/exanok.php" />
     <entry file="file://$PROJECT_DIR$/vendor/magento/module-backend/Block/Template/Context.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -906,68 +812,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region/Collection.php">
+    <entry file="file://$PROJECT_DIR$/app/etc/env.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="52" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="110" lean-forward="false" selection-start-line="16" selection-start-column="110" selection-end-line="16" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/InstallSchema.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="35" column="28" lean-forward="false" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/State.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        <state relative-caret-position="234">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/etc/adminhtml/system.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="144">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Helper/Data.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/DataObject/IdentityInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/Data/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="675" column="21" lean-forward="false" selection-start-line="675" selection-start-column="21" selection-end-line="675" selection-end-column="21" />
+          <folding>
+            <marker date="1516299699812" expanded="true" signature="16422:16534" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/State.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="108" lean-forward="false" selection-start-line="4" selection-start-column="108" selection-end-line="4" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="83" lean-forward="false" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/Model/ResourceModel/Db/Collection/AbstractCollection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="593" column="9" lean-forward="true" selection-start-line="593" selection-start-column="9" selection-end-line="593" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/Model/ResourceModel/Db/AbstractDb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="439" column="7" lean-forward="true" selection-start-line="439" selection-start-column="7" selection-end-line="439" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/State.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Setup/InstallSchema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="48" column="74" lean-forward="false" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Model/ResourceModel/Region.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/InteractOne/LimitStates/Controller/Index/Display.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="234">
+          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
           <folding />
         </state>
       </provider>

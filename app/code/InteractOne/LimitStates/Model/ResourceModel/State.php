@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: tristanguckenberger
- * Date: 1/18/18
- * Time: 11:14 AM
- */
 
 namespace InteractOne\LimitStates\Model\ResourceModel;
 
