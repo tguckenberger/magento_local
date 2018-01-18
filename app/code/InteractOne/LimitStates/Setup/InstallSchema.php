@@ -21,12 +21,12 @@ class InstallSchema implements InstallSchemaInterface
 
         try {
             $table = $setup->getConnection()->newTable(
-                $setup->getTable('LimitedStates')
+                $setup->getTable('interactone_states')
             )->addColumn(
                 'state_id',
                 \Magento\Framework\DB\Ddl\Table::TYPE_INTEGER,
                 255,
-                ['identity' => true, 'unsigned' => true, 'nullable' => false, 'primary' => true],
+                ['identity' => true, 'auto_increment' => true, 'unsigned' => true, 'nullable' => false, 'primary' => true],
                 'State ID'
             )->addColumn(
                 'name',
