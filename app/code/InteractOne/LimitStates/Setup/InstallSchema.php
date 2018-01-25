@@ -38,6 +38,10 @@ class InstallSchema implements InstallSchemaInterface
             );
         } catch (\Zend_Db_Exception $e) {
         }
+        try {
+            $setup->getConnection()->createTable($table);
+        } catch (\Zend_Db_Exception $e) {
+        }
         $setup->endSetup();
     }
 }

@@ -9,23 +9,25 @@ use Magento\Framework\Setup\ModuleDataSetupInterface;
 
 class InstallData implements InstallDataInterface
 {
-    protected $_stateFactory;
+    protected $stateFactory;
     protected $_objectManager;
+    protected  $countryFactory;
+    protected  $scopeConfigInterface;
 
     public function __construct(
         \InteractOne\LimitStates\Model\State $stateFactory,
-        \Magento\Framework\ObjectManagerInterface $objectmanager
+        \Magento\Directory\Model\CountryFactory $countryFactory
     )
     {
-        $this->_stateFactory = $stateFactory;
-        $this->_objectManager = $objectmanager;
+        $this->stateFactory = $stateFactory;
+        $this->countryFactory = $countryFactory;
+
     }
     public function install(ModuleDataSetupInterface $setup, ModuleContextInterface $context) {
-        $countryFactory = $this->_objectManager->get('Magento\Directory\Model\CountryFactory');
-        $stateArray = $countryFactory->create()->setId('US')->getLoadedRegionCollection()->toOptionArray();
+        $stateArray = $this->countryFactory->create()->setId('US')->getLoadedRegionCollection()->toOptionArray();
         unset($stateArray[0]);
         foreach ($stateArray as $stateRef) {
-            $state = $this->_stateFactory;
+            $state = $this->stateFactory;
             $state->setData(array(
                 'name' => $stateRef['title'],
                 'state_allowed' => false
